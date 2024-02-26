@@ -1,4 +1,4 @@
-Hello, welcome to my attempt to the power plant challenge , 
+Hello, welcome to my solution to the power plant challenge , 
 
 in this document I will explain how to launch the API and make it visible in port 8888
 
@@ -12,6 +12,5 @@ back the result
 
 CO2 is taken into consideration in the calculation.
 
-I hope results will help to reduce CO2 emission
 
 Yassine Kouchida
