@@ -11,6 +11,7 @@ when the server is open, it will listen to the POST requests with the payload an
 back the result
 
 CO2 is taken into consideration in the calculation.
+see requirements.txt for dependencies
 
 
 Yassine Kouchida
