@@ -1,0 +1,7 @@
+REQUIREMENTS & PROCEDURE TO INSTALL:
+needs python3 and pip3 client, some terminals this program is launched using only 
+python and pip 
+
+- flask : pip3 install flask (or pip install flask)
+- json : built in package in python (no need to install)
+- flask_cors : pip3 install flask_cors
